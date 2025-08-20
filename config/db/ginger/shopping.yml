@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Organic Ginger
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-ginger-150-g-id-1535614000
+    price: €2.25
+    price_per_unit: €15.00/kg
+    quantity: 150 g
+  opt_2:
+    name: SuperValu Loose Ginger
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-loose-ginger-1-kg-id-1640438000
+    price: €5.59/kg
+    price_per_unit: €5.59/kg
+    quantity: 1 kg
+  opt_3:
+    name: Epicure Chopped Ginger
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/epicure-chopped-ginger-180-g-id-1603309001
+    price: €3.15
+    price_per_unit: €17.50/kg
+    quantity: 180 g

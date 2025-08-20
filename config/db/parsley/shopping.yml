@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Funky Soul Parsley
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/funky-soul-parsley-9-g-id-1739882000
+    price: €0.55
+    price_per_unit: €61.11/kg
+    quantity: 9 g
+  opt_3:
+    name: Knorr Parsley Sauce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/knorr-parsley-sauce-20-g-id-1009484005
+    price: €1.29
+    price_per_unit: €64.50/kg
+    quantity: 20 g
+  opt_1:
+    name: SuperValu Fresh Parsley
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fresh-parsley-40-g-id-1596028000
+    price: €1.19
+    price_per_unit: €29.75/kg
+    quantity: 40 g

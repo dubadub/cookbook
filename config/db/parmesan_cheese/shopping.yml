@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Castelli Parmigiano Reggiano Grated Cheese
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/castelli-parmigiano-reggiano-grated-cheese-70-g-id-1025723000
+    price: €3.09
+    price_per_unit: €44.14/kg
+    quantity: 70 g
+  opt_1:
+    name: Castelli Parmigiano Reggiano Cheese
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/castelli-parmigiano-reggiano-cheese-125-g-id-1015777000
+    price: €4.00
+    price_per_unit: €32.00/kg
+    quantity: 125 g
+  opt_3:
+    name: SuperValu Grated Parmigiano Reggiano Cheese
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-grated-parmigiano-reggiano-cheese-70-g-id-1334328000
+    price: €1.50
+    price_per_unit: €21.43/kg
+    quantity: 70 g

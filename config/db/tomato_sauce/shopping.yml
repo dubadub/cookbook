@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: Heinz Spaghetti In Tomato Sauce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/heinz-spaghetti-in-tomato-sauce-400-g-id-1003632000
+    price: €1.50
+    price_per_unit: €3.75/kg
+    quantity: 400 g
+  opt_2:
+    name: Batchelors Beans In Tomato Sauce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/batchelors-beans-in-tomato-sauce-420-g-id-1008124000
+    price: €1.89
+    price_per_unit: €4.50/kg
+    quantity: 420 g
+  opt_3:
+    name: The Happy Pear Spicy Tomato Sauce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/the-happy-pear-spicy-tomato-sauce-350-g-id-1770077002
+    price: €2.60
+    price_per_unit: €7.43/kg
+    quantity: 350 g

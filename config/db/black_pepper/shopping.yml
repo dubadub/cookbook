@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: Schwartz Red & Black Pepper Jar
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/schwartz-red-&-black-pepper-jar-45-g-id-1020896000
+    price: €3.20
+    price_per_unit: €71.11/kg
+    quantity: 45 g
+  opt_2:
+    name: Schwartz Black Pepper Ground Jar
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/schwartz-black-pepper-ground-jar-33-g-id-1004862000
+    price: €3.20
+    price_per_unit: €96.97/kg
+    quantity: 33 g
+  opt_1:
+    name: Boursin Black Pepper Cheese
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/boursin-black-pepper-cheese-150-g-id-1011981000
+    price: €4.30
+    price_per_unit: €28.67/kg
+    quantity: 150 g

@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: SuperValu Garlic Toasties 9 Pack
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-garlic-toasties-9-pack-270-g-id-1029536001
+    price: €1.20
+    price_per_unit: €4.44/kg
+    quantity: 270 g
+  opt_1:
+    name: Bread Board Garlic & Coriander Naan
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/bread-board-garlic-&-coriander-naan-260-g-id-1749477000
+    price: €1.15
+    price_per_unit: €4.42/kg
+    quantity: 260 g
+  opt_2:
+    name: Daily Basics Garlic Baguette
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/daily-basics-garlic-baguette-170-g-id-1868217000
+    price: €0.35
+    price_per_unit: €2.06/kg
+    quantity: 170 g

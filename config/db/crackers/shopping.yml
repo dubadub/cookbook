@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Jacob's Cream Crackers
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/jacobs-cream-crackers-200-g-id-1018190002
+    price: €1.89
+    price_per_unit: €9.45/kg
+    quantity: 200 g
+  opt_3:
+    name: SuperValu Multigrain Crackers
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-multigrain-crackers-170-g-id-1584221000
+    price: €1.59
+    price_per_unit: €9.35/kg
+    quantity: 170 g
+  opt_1:
+    name: SuperValu Cream Crackers
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-cream-crackers-200-g-id-1569245000
+    price: €0.55
+    price_per_unit: €2.75/kg
+    quantity: 200 g

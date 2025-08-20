@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Kerrygold Creamery Butter
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/kerrygold-creamery-butter-454-g-id-1019632000
+    price: €5.49
+    price_per_unit: €12.09/kg
+    quantity: 454 g
+  opt_1:
+    name: Glenstal Butter
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/glenstal-butter-227-g-id-1376511000
+    price: €3.29
+    price_per_unit: €14.49/kg
+    quantity: 227 g
+  opt_3:
+    name: Or Real Irish Butter
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/or-real-irish-butter-454-g-id-1790642000
+    price: €4.99
+    price_per_unit: €10.99/kg
+    quantity: 454 g

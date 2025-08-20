@@ -1,0 +1,103 @@
+serving_size: 125g
+calories: 65kcal
+source: http..
+timestamp: 2023
+
+macronutrients:
+  fat: 0.2g
+  protein: 0.3g
+  carbohydrate: 17.3g
+  sugars: 13g
+  fiber: 3g
+  cholesterol: 0mg
+  saturated fats: 0g
+  net-carbs: 14.3g
+  trans fatty acids: 0g
+
+minerals:
+  calcium: 7.5mg
+  iron: 0.2mg
+  potassium: 133.8mg
+  magnesium: 6.3mg
+  phosphorus: 13.8mg
+  sodium: 1.3mg
+  zinc: 0.1mg
+  copper: 0mg
+  manganese: 0mg
+  selenium: 0mcg
+  fluoride: 4.1mcg
+
+vitamins:
+  Vitamin A, RAE: 3.8mcg
+  Vitamin C: 5.8mg
+  Thiamin (B1): 0mg
+  Riboflavin (B2): 0mg
+  Niacin (B3): 0.1mg
+  Vitamin B5 (PA): 0.1mg
+  Vitamin B6: 0.1mg
+  Folate (B9): 3.8mcg
+  Folic acid: 0mcg
+  Food Folate: 3.8mcg
+  Folate DFE: 3.8mcg
+  Choline: 4.3mg
+  Vitamin B12: 0mcg
+  Retinol: 0mcg
+  Carotene, beta: 33.8mcg
+  Carotene, alpha: 0mcg
+  Cryptoxanthin, beta: 13.8mcg
+  Vitamin A, IU: 67.5IU
+  Lycopene: 0mcg
+  Lut + Zeaxanthin: 36.3mcg
+  Vitamin E: 0.2mg
+  Vitamin D: 0mcg
+  Vitamin D (IU): 0IU
+  Vitamin K: 2.8mcg
+  Vitamin K1: 0mcg
+
+other:
+  Water: 107g
+  Ash: 0g
+  Alcohol: 0g
+  Caffeine: 0mg
+  Theobromine: 0mg
+  PRAL score: -2.42
+
+carbs:
+  Sucrose: 2.6g
+  Glucose (Dextrose): 3g
+  Fructose: 7.4g
+  Lactose: 0g
+  Maltose: 0g
+  Galactose: 0g
+  Starch: 0.1g
+
+fats:
+  Monounsaturated Fats: 9mg
+  Polyunsaturated Fats: 64mg
+  Omega 3s: 11mg
+  Omega 6s: 54mg
+  Phytosterols: 15mg
+
+amino_acids:
+  Essential Amino Acids:
+    Histidine: 6mg
+    Isoleucine: 8mg
+    Leucine: 16mg
+    Lysine: 15mg
+    Methionine: 1mg
+    Phenylalanine: 8mg
+    Threonine: 8mg
+    Tryptophan: 1mg
+    Valine: 15mg
+  Conditionally Essential Amino Acids:
+    Arginine: 8mg
+    Cystine: 1mg
+    Glycine: 11mg
+    Proline: 8mg
+    Tyrosine: 1mg
+  Non-Essential Amino Acids:
+    Alanine: 14mg
+    Aspartic acid: 88mg
+    Betaine: 0mg
+    Glutamic acid: 31mg
+    Serine: 13mg

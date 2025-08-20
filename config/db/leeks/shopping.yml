@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: SuperValu Organic Leeks
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-leeks-300-g-id-1015362001
+    price: €2.59
+    price_per_unit: €8.63/kg
+    quantity: 300 g
+  opt_3:
+    name: Daly's Kitchen Potato & Leek Soup
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/dalys-kitchen-potato-&-leek-soup-1-piece-id-1789351000
+    price: €2.99
+    price_per_unit: €2.99
+    quantity: 1 Piece
+  opt_1:
+    name: SuperValu Loose Leeks
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-loose-leeks-1-kg-id-1036694000
+    price: €4.65/kg
+    price_per_unit: €4.65/kg
+    quantity: 1 kg

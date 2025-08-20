@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Signature Tastes Parmigano Reggiano
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-signature-tastes-parmigano-reggiano-1-kg-id-1564331000
+    price: €39.00/kg
+    price_per_unit: €39.00/kg
+    quantity: 1 kg
+  opt_2:
+    name: Castelli Parmigiano Reggiano Cheese
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/castelli-parmigiano-reggiano-cheese-125-g-id-1015777000
+    price: €4.00
+    price_per_unit: €32.00/kg
+    quantity: 125 g
+  opt_3:
+    name: Castelli Parmigiano Reggiano Shavings
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/castelli-parmigiano-reggiano-shavings-100-g-id-1025014000
+    price: €4.00
+    price_per_unit: €40.00/kg
+    quantity: 100 g

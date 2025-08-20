@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Counter Fresh Irish Chicken Fillets
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/counter-fresh-irish-chicken-fillets-145-g-id-1285607002
+    price: €2.29
+    price_per_unit: €15.79/kg
+    quantity: 145 g
+  opt_1:
+    name: SuperValu Fresh Irish Chicken Fillets
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fresh-irish-chicken-fillets-295-g-id-1597086000
+    price: €3.99
+    price_per_unit: €13.53/kg
+    quantity: 295 g
+  opt_3:
+    name: SuperValu Fresh Irish Chicken Drumsticks
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fresh-irish-chicken-drumsticks-800-g-id-1030173001
+    price: €3.49
+    price_per_unit: €4.36/kg
+    quantity: 800 g

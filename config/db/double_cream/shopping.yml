@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: SuperValu Double Cream
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-double-cream-250-ml-id-1631370000
+    price: €1.59
+    price_per_unit: €6.36/l
+    quantity: 250 ml
+  opt_3:
+    name: Olay Double Action Day Cream & Primer
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/olay-double-action-day-cream-&-primer-50-ml-id-1022827000
+    price: €7.75
+    price_per_unit: €0.16/ml
+    quantity: 50 ml
+  opt_1:
+    name: Avonmore Double Cream
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/avonmore-double-cream-229-ml-id-1025384000
+    price: €2.99
+    price_per_unit: €13.06/l
+    quantity: 229 ml

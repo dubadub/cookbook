@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: Benylin Chesty Cough Syrup
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/benylin-chesty-cough-syrup-125-ml-id-1018078001
+    price: €5.75
+    price_per_unit: €46.00/l
+    quantity: 125 ml
+  opt_3:
+    name: Biona Organic Date Syrup
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/biona-organic-date-syrup-350-g-id-1370965000
+    price: €4.99
+    price_per_unit: €14.26/kg
+    quantity: 350 g
+  opt_2:
+    name: Broncho Stop Cough Syrup
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/broncho-stop-cough-syrup-120-ml-id-1462389000
+    price: €7.00
+    price_per_unit: €58.33/l
+    quantity: 120 ml

@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: Knorr Chicken Stock 8 Cubes
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/knorr-chicken-stock-8-cubes-80-g-id-1046233001
+    price: €3.09
+    price_per_unit: €38.63/kg
+    quantity: 80 g
+  opt_1:
+    name: Knorr Chicken Stock 4 Pots
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/knorr-chicken-stock-4-pots-112-g-id-1038174000
+    price: €2.79
+    price_per_unit: €24.91/kg
+    quantity: 112 g
+  opt_2:
+    name: Knorr Chicken Stock 8 Pots
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/knorr-chicken-stock-8-pots-224-g-id-1084077001
+    price: €3.75
+    price_per_unit: €16.74/kg
+    quantity: 224 g

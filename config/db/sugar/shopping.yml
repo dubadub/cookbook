@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: Siúcra Granulated Sugar
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/sicra-granulated-sugar-1-kg-id-1015543000
+    price: €2.65
+    price_per_unit: €2.65/kg
+    quantity: 1 kg
+  opt_2:
+    name: SuperValu Caster Sugar
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-caster-sugar-1-kg-id-1029837000
+    price: €1.95
+    price_per_unit: €1.95/kg
+    quantity: 1 kg
+  opt_1:
+    name: SuperValu Icing Sugar
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-icing-sugar-500-g-id-1029775000
+    price: €0.95
+    price_per_unit: €1.90/kg
+    quantity: 500 g

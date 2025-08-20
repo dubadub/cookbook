@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: SuperValu Organic Spring Onions
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-spring-onions-100-g-id-1679388000
+    price: €1.99
+    price_per_unit: €19.90/kg
+    quantity: 100 g
+  opt_3:
+    name: Tayto Hunky Dorys Cheddar Cheese & Spring Onion
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/tayto-hunky-dorys-cheddar-cheese-&-spring-onion-37-g-id-1013407016
+    price: €1.50
+    price_per_unit: €40.54/kg
+    quantity: 37 g
+  opt_1:
+    name: SuperValu Scallions Bunch
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-scallions-bunch-1-piece-id-1026694000
+    price: €0.79
+    price_per_unit: €0.79
+    quantity: 1 Piece

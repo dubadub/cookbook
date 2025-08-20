@@ -1,0 +1,13 @@
+supervalu:
+  opt_1:
+    name: Connacht Gold Unsalted Butter
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/connacht-gold-unsalted-butter-227-g-id-1017950001
+    price: €2.89
+    price_per_unit: €12.73/kg
+    quantity: 227 g
+  opt_2:
+    name: SuperValu Irish Unsalted Butter
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-irish-unsalted-butter-227-g-id-1289942000
+    price: €2.39
+    price_per_unit: €10.53/kg
+    quantity: 227 g

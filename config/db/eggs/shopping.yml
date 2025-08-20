@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: Daily Basics Mixed Weight Eggs
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/daily-basics-mixed-weight-eggs-18-piece-id-1246884001
+    price: €4.05
+    price_per_unit: €0.23 each
+    quantity: 18 Piece
+  opt_3:
+    name: SuperValu Large Fresh Irish Eggs 6 Pack
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-large-fresh-irish-eggs-6-pack-6-piece-id-1024951000
+    price: €1.79
+    price_per_unit: €0.30 each
+    quantity: 6 Piece
+  opt_2:
+    name: SuperValu Medium Fresh Irish Eggs 12 Pack
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-medium-fresh-irish-eggs-12-pack-12-piece-id-1024957000
+    price: €2.69
+    price_per_unit: €0.22 each
+    quantity: 12 Piece

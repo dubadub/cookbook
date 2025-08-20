@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: Flahavan's Toasted Nut Granola
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/flahavans-toasted-nut-granola-400-g-id-1499266000
+    price: €5.29
+    price_per_unit: €13.23/kg
+    quantity: 400 g
+  opt_1:
+    name: Lakeshore Toasted Sesame Oil
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/lakeshore-toasted-sesame-oil-250-ml-id-1005725000
+    price: €5.59
+    price_per_unit: €22.36/l
+    quantity: 250 ml
+  opt_2:
+    name: SuperValu Toasted Sunflower Seeds
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-toasted-sunflower-seeds-200-g-id-1809288008
+    price: €1.19
+    price_per_unit: €5.95/kg
+    quantity: 200 g

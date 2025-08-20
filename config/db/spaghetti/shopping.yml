@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: Heinz Spaghetti Hoops
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/heinz-spaghetti-hoops-205-g-id-1016876001
+    price: €1.35
+    price_per_unit: €6.59/kg
+    quantity: 205 g
+  opt_2:
+    name: Heinz Spaghetti Hoops
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/heinz-spaghetti-hoops-400-g-id-1003632001
+    price: €1.50
+    price_per_unit: €3.75/kg
+    quantity: 400 g
+  opt_3:
+    name: SuperValu Spaghetti Rings
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-spaghetti-rings-411-g-id-1038929001
+    price: €0.35
+    price_per_unit: €0.85/kg
+    quantity: 411 g

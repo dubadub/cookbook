@@ -1,0 +1,13 @@
+supervalu:
+  opt_2:
+    name: Blue Dragon Oyster & Spring Onion Stir Fry Sauce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/blue-dragon-oyster-&-spring-onion-stir-fry-sauce-120-g-id-1023473002
+    price: €1.30
+    price_per_unit: €10.83/kg
+    quantity: 120 g
+  opt_1:
+    name: Thai Gold Oyster Sauce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/thai-gold-oyster-sauce-200-ml-id-1036385000
+    price: €3.50
+    price_per_unit: €17.50/l
+    quantity: 200 ml

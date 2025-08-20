@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: SuperValu Organic Porridge Oats
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-porridge-oats-1-kg-id-1535585000
+    price: €1.19
+    price_per_unit: €1.19/kg
+    quantity: 1 kg
+  opt_1:
+    name: SuperValu Porridge Oats
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-porridge-oats-1-kg-id-1336134000
+    price: €0.89
+    price_per_unit: €0.89/kg
+    quantity: 1 kg
+  opt_2:
+    name: Flahavan's Porridge Oats
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/flahavans-porridge-oats-1-kg-id-1010783000
+    price: €2.75
+    price_per_unit: €2.75/kg
+    quantity: 1 kg

@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Table Salt
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-table-salt-750-g-id-1037903000
+    price: €0.50
+    price_per_unit: €0.67/kg
+    quantity: 750 g
+  opt_3:
+    name: Saxa Salt Polydrum
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/saxa-salt-polydrum-750-g-id-1015258000
+    price: €2.55
+    price_per_unit: €3.40/kg
+    quantity: 750 g
+  opt_2:
+    name: SuperValu Sea Salt
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-sea-salt-250-g-id-1028412000
+    price: €1.99
+    price_per_unit: €7.96/kg
+    quantity: 250 g

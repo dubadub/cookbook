@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Avonmore Fresh Milk
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/avonmore-fresh-milk-500-ml-id-1022803000
+    price: €0.85
+    price_per_unit: €1.70/l
+    quantity: 500 ml
+  opt_1:
+    name: Premier Milk
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/premier-milk-2-l-id-1020718000
+    price: €2.69
+    price_per_unit: €1.35/l
+    quantity: 2 L
+  opt_3:
+    name: Avonmore Slimline Milk
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/avonmore-slimline-milk-1-l-id-1024126000
+    price: €1.49
+    price_per_unit: €1.49/l
+    quantity: 1 L

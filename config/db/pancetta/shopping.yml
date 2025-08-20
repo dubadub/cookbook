@@ -1,0 +1,13 @@
+supervalu:
+  opt_2:
+    name: Levoni Diced Smoked Pancetta
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/levoni-diced-smoked-pancetta-140-g-id-1139665000
+    price: €4.45
+    price_per_unit: €31.79/kg
+    quantity: 140 g
+  opt_1:
+    name: Levoni Diced Pancetta Dolce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/levoni-diced-pancetta-dolce-140-g-id-1132487000
+    price: €4.45
+    price_per_unit: €31.79/kg
+    quantity: 140 g

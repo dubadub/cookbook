@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Loose Lemons
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-loose-lemons-1-piece-id-1024720000
+    price: €0.55
+    price_per_unit: €0.55
+    quantity: 1 Piece
+  opt_2:
+    name: SuperValu Organic Unwaxed Lemons
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-unwaxed-lemons-4-piece-id-1024862000
+    price: €2.49
+    price_per_unit: €0.62 each
+    quantity: 4 Piece
+  opt_3:
+    name: Club Lemon Bottle
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/club-lemon-bottle-175-l-id-1602077001
+    price: €3.15+ €0.25 Deposit
+    price_per_unit: €1.80/l
+    quantity: 1.75 L

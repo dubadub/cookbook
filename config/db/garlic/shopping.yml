@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Garlic
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-garlic-3-piece-id-1023017000
+    price: €0.99
+    price_per_unit: €0.33 each
+    quantity: 3 Piece
+  opt_2:
+    name: SuperValu Loose Garlic
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-loose-garlic-1-piece-id-1002047000
+    price: €0.39
+    price_per_unit: €0.39
+    quantity: 1 Piece
+  opt_3:
+    name: Daily Basics Garlic Baguette
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/daily-basics-garlic-baguette-170-g-id-1868217000
+    price: €0.35
+    price_per_unit: €2.06/kg
+    quantity: 170 g

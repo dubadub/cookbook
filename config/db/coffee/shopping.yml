@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: Kenco Rich Coffee
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/kenco-rich-coffee-200-g-id-1016903005
+    price: €8.50
+    price_per_unit: €42.50/kg
+    quantity: 200 g
+  opt_3:
+    name: Nescafé Original Coffee
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/nescaf-original-coffee-200-g-id-1024717000
+    price: €10.49
+    price_per_unit: €52.45/kg
+    quantity: 200 g
+  opt_2:
+    name: Kenco Smooth Coffee
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/kenco-smooth-coffee-200-g-id-1016903004
+    price: €8.50
+    price_per_unit: €42.50/kg
+    quantity: 200 g

@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: Rowse Squeezy Honey
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/rowse-squeezy-honey-340-g-id-1230489001
+    price: €3.59
+    price_per_unit: €10.56/kg
+    quantity: 340 g
+  opt_1:
+    name: SuperValu Squeezy Honey
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-squeezy-honey-340-g-id-1675236000
+    price: €1.27
+    price_per_unit: €3.74/kg
+    quantity: 340 g
+  opt_2:
+    name: Boyne Valley Honey
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/boyne-valley-honey-340-g-id-1008549001
+    price: €3.59
+    price_per_unit: €10.56/kg
+    quantity: 340 g

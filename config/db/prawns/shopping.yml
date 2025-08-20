@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu King Prawns
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-king-prawns-125-g-id-1134152000
+    price: €3.09
+    price_per_unit: €24.72/kg
+    quantity: 125 g
+  opt_2:
+    name: SuperValu Prawn Cocktail
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-prawn-cocktail-180-g-id-1263415000
+    price: €3.49
+    price_per_unit: €19.39/kg
+    quantity: 180 g
+  opt_3:
+    name: SuperValu King Frozen Prawns
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-king-frozen-prawns-200-g-id-1715778000
+    price: €2.79
+    price_per_unit: €13.95/kg
+    quantity: 200 g

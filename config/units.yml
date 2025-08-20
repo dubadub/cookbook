@@ -1,0 +1,9 @@
+mass:
+  default:
+    - g
+    - kg
+  mix:
+    - 1000 g = 1 kg
+    - 1 kg = 1000 g
+volume:
+  - 1 l = 1000 dl

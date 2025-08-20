@@ -1,0 +1,13 @@
+supervalu:
+  opt_2:
+    name: Lee Kum Kee Pure Sesame Oil
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/lee-kum-kee-pure-sesame-oil-207-ml-id-1308765000
+    price: €4.59
+    price_per_unit: €22.17/l
+    quantity: 207 ml
+  opt_1:
+    name: Lakeshore Toasted Sesame Oil
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/lakeshore-toasted-sesame-oil-250-ml-id-1005725000
+    price: €5.59
+    price_per_unit: €22.36/l
+    quantity: 250 ml

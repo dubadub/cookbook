@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: Innocent Orange Juice With Bits
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/innocent-orange-juice-with-bits-900-ml-id-1228450000
+    price: €3.99+ €0.25 Deposit
+    price_per_unit: €4.43/l
+    quantity: 900 ml
+  opt_1:
+    name: SuperValu Orange Juice
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-orange-juice-1-l-id-1014183000
+    price: €1.49
+    price_per_unit: €1.49/l
+    quantity: 1 L
+  opt_2:
+    name: Innocent Orange Juice Smooth
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/innocent-orange-juice-smooth-135-l-id-1514539000
+    price: €4.00+ €0.25 Deposit
+    price_per_unit: €2.96/l
+    quantity: 1.35 L

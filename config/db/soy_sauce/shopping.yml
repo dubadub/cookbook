@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Amoy Dark Soy Sauce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/amoy-dark-soy-sauce-150-ml-id-1003435002
+    price: €2.69
+    price_per_unit: €17.93/l
+    quantity: 150 ml
+  opt_1:
+    name: Kikkoman Soy Sauce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/kikkoman-soy-sauce-150-ml-id-1020942000
+    price: €2.50
+    price_per_unit: €16.67/l
+    quantity: 150 ml
+  opt_3:
+    name: SuperValu Dark Soy Sauce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-dark-soy-sauce-150-ml-id-1661705000
+    price: €0.90
+    price_per_unit: €6.00/l
+    quantity: 150 ml

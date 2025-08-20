@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Tagliatelle Pasta
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-tagliatelle-pasta-400-g-id-1612291001
+    price: €1.70
+    price_per_unit: €4.25/kg
+    quantity: 400 g
+  opt_2:
+    name: Roma Pasta Spaghetti
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/roma-pasta-spaghetti-500-g-id-1017633001
+    price: €1.99
+    price_per_unit: €3.98/kg
+    quantity: 500 g
+  opt_3:
+    name: SuperValu Fusilli Pasta
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fusilli-pasta-400-g-id-1612291002
+    price: €1.70
+    price_per_unit: €4.25/kg
+    quantity: 400 g

@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Denny Hickory Rashers
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/denny-hickory-rashers-200-g-id-1635778000
+    price: €3.50
+    price_per_unit: €17.50/kg
+    quantity: 200 g
+  opt_1:
+    name: O'Neills Dry Cure Bacon Co. Streaky Rashers
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/oneills-dry-cure-bacon-co-streaky-rashers-200-g-id-1203696000
+    price: €2.99
+    price_per_unit: €14.95/kg
+    quantity: 200 g
+  opt_3:
+    name: Denny Traditional Rashers
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/denny-traditional-rashers-200-g-id-1635780000
+    price: €3.50
+    price_per_unit: €17.50/kg
+    quantity: 200 g

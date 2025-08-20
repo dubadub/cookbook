@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Sea Salt
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-sea-salt-250-g-id-1028412000
+    price: €1.99
+    price_per_unit: €7.96/kg
+    quantity: 250 g
+  opt_3:
+    name: SuperValu Sea Salt Crackers
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-sea-salt-crackers-185-g-id-1711563000
+    price: €1.59
+    price_per_unit: €8.59/kg
+    quantity: 185 g
+  opt_2:
+    name: Maldon Sea Salt
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/maldon-sea-salt-250-g-id-1020156000
+    price: €4.20
+    price_per_unit: €16.80/kg
+    quantity: 250 g

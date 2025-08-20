@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: Daily Basics Plain Flour
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/daily-basics-plain-flour-2-kg-id-1013503000
+    price: €1.29
+    price_per_unit: €0.65/kg
+    quantity: 2 kg
+  opt_1:
+    name: SuperValu Plain Flour
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-plain-flour-2-kg-id-1008374000
+    price: €2.55
+    price_per_unit: €1.28/kg
+    quantity: 2 kg
+  opt_2:
+    name: Odlums Cream Plain Flour
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/odlums-cream-plain-flour-1-kg-id-1014599000
+    price: €2.00
+    price_per_unit: €2.00/kg
+    quantity: 1 kg

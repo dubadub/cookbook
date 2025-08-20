@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: Chia Wholegrain Bread
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/chia-wholegrain-bread-380-g-id-1344364000
+    price: €3.30
+    price_per_unit: €8.68/kg
+    quantity: 380 g
+  opt_3:
+    name: Brennans Super Bread
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/brennans-super-bread-800-g-id-1909888000
+    price: €1.50 was €2.59
+    price_per_unit: €1.88/kg
+    quantity: 800 g
+  opt_2:
+    name: Sourdough Brown Pave
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/sourdough-brown-pave-400-g-id-1956759000
+    price: €2.85
+    price_per_unit: €7.13/kg
+    quantity: 400 g

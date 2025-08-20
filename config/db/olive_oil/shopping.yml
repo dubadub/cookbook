@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: Don Carlos Pure Olive Oil
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/don-carlos-pure-olive-oil-750-ml-id-1860440000
+    price: €11.89
+    price_per_unit: €15.85/l
+    quantity: 750 ml
+  opt_1:
+    name: SuperValu Olive Oil
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-olive-oil-500-ml-id-1511054000
+    price: €4.29
+    price_per_unit: €8.58/l
+    quantity: 500 ml
+  opt_2:
+    name: Daily Basics Olive Oil
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/daily-basics-olive-oil-750-ml-id-1522521000
+    price: €4.09
+    price_per_unit: €5.45/l
+    quantity: 750 ml

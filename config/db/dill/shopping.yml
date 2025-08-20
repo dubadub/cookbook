@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: Ella's Kitchen Salmon Risotto with Dill 10+Months
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/ellas-kitchen-salmon-risotto-with-dill-10months-190-g-id-1086823001
+    price: €2.64
+    price_per_unit: €13.89/kg
+    quantity: 190 g
+  opt_1:
+    name: SuperValu Fresh Dill
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fresh-dill-20-g-id-1592795003
+    price: €1.29
+    price_per_unit: €64.50/kg
+    quantity: 20 g
+  opt_2:
+    name: Schwartz Dill Weed
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/schwartz-dill-weed-10-g-id-1022884000
+    price: €2.50
+    price_per_unit: €250.00/kg
+    quantity: 10 g
