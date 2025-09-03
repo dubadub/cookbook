@@ -1,0 +1,13 @@
+supervalu:
+  opt_1:
+    name: SuperValu Signature Tastes Ripe Hass Avocados
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-signature-tastes-ripe-hass-avocados-2-piece-id-1331324001
+    price: €2.49
+    price_per_unit: €1.25 each
+    quantity: 2 Piece
+  opt_2:
+    name: SuperValu Signature Tastes Ripe Avocado
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-signature-tastes-ripe-avocado-1-piece-id-1007563000
+    price: €1.35
+    price_per_unit: €1.35
+    quantity: 1 Piece

@@ -1,17 +1,11 @@
 supervalu:
-  opt_1:
-    name: SuperValu Carrots & Parsnips
-    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-carrots-&-parsnips-500-g-id-1002386000
-    price: €1.29
-    price_per_unit: €2.58/kg
-    quantity: 500 g
-  opt_3:
+  opt_2:
     name: SuperValu Irish Carrots Loose
     url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-irish-carrots-loose-1-kg-id-1086702000
     price: €1.35/kg
     price_per_unit: €1.35/kg
     quantity: 1 kg
-  opt_2:
+  opt_1:
     name: SuperValu Irish Grown Carrots
     url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-irish-grown-carrots-1-kg-id-1022674001
     price: €1.29

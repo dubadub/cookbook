@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: SuperValu Organic Cherry Tomatoes
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-cherry-tomatoes-250-g-id-1180005000
+    price: €1.69
+    price_per_unit: €6.76/kg
+    quantity: 250 g
+  opt_3:
+    name: SuperValu Organic Cherry Tomato Shakers
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-cherry-tomato-shakers-250-g-id-1892078000
+    price: €2.15
+    price_per_unit: €8.60/kg
+    quantity: 250 g
+  opt_1:
+    name: SuperValu Cherry Tomatoes
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-cherry-tomatoes-250-g-id-1010962000
+    price: €1.09
+    price_per_unit: €4.36/kg
+    quantity: 250 g

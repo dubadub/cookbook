@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: SuperValu Signature Tastes Organic Medjool Dates
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-signature-tastes-organic-medjool-dates-150-g-id-1765802000
+    price: €4.99
+    price_per_unit: €33.27/kg
+    quantity: 150 g
+  opt_1:
+    name: Medjool Dates
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/medjool-dates-200-g-id-1803787000
+    price: €3.99
+    price_per_unit: €19.95/kg
+    quantity: 200 g
+  opt_2:
+    name: SuperValu Pitted Dates
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-pitted-dates-300-g-id-1013969000
+    price: €2.25
+    price_per_unit: €7.50/kg
+    quantity: 300 g

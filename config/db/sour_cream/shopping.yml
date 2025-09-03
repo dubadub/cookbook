@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: Mlekpol Sour Cream
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/mlekpol-sour-cream-400-g-id-1066683000
+    price: €2.40
+    price_per_unit: €9.60/kg
+    quantity: 400 g
+  opt_1:
+    name: Avonmore Sour Cream
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/avonmore-sour-cream-200-ml-id-1017013000
+    price: €1.69
+    price_per_unit: €8.45/l
+    quantity: 200 ml
+  opt_2:
+    name: SuperValu Sour Cream
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-sour-cream-200-ml-id-1343396000
+    price: €0.99
+    price_per_unit: €4.95/l
+    quantity: 200 ml

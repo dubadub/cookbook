@@ -1,17 +1,17 @@
 supervalu:
-  opt_2:
+  opt_1:
     name: SuperValu Smoked Salmon
     url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-smoked-salmon-150-g-id-1027989000
     price: €4.39
     price_per_unit: €29.27/kg
     quantity: 150 g
-  opt_3:
+  opt_2:
     name: SuperValu Smoked Salmon
     url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-smoked-salmon-100-g-id-1028051000
     price: €3.89
     price_per_unit: €38.90/kg
     quantity: 100 g
-  opt_1:
+  opt_3:
     name: Dunn's Smoked Salmon
     url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/dunns-smoked-salmon-100-g-id-1299202000
     price: €5.00

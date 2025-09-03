@@ -1,0 +1,69 @@
+---
+servings: 2
+---
+
+==Day 0==
+
+-- delivery around 4pm
+
+Dinner:
+- @hake fillet{2}(baked) with @./Sides/Mashed Potatoes{2%servings} and @sourdough bread{1%slice}
+- @./Salads/Boring{2%servings}
+
+-- do prep for burrito
+
+==Day 1==
+
+Breakfast:
+- @./Breakfast/Mexican Style Burrito{2%servings}
+- @filter coffee{1%cup} and @tea{1%cup}
+
+Lunch:
+- @./Lunches/Spaghetti Bolognese{}
+- @./Salads/Boring{2%servings}
+
+Dinner:
+- @./Salads/Caprese{2}
+
+==Day 2==
+
+Breakfast:
+- @./Breakfast/Mexican Style Burrito{2%servings}
+- @filter coffee{1%cup} and @tea{1%cup}
+
+Lunch:
+- @./Slowcooker/Slow-cooker beef stew{1/2} with @rice{1%cup}(boiled)
+- @tea{2%cup}
+
+Dinner:
+- @./Salads/Prawn Evening Salad{2} + @sourdough bread{1%slice}
+
+==Day 3==
+
+Breakfast:
+- @./Breakfast/Mexican Style Burrito{2%servings}
+- @filter coffee{1%cup} and @tea{1%cup}
+
+Lunch:
+- @./Slowcooker/Slow-cooker beef stew{1/2} with @./Sides/Mashed Potatoes{2%servings}
+- @tea{2%cup}
+
+-- dinner from a new order
+
+== Snacks ==
+
+- @kefir{2}
+- @dates
+- @apples
+- @kiwi
+- @Parma ham{2}
+- @smoked salmon{2}
+- @yogurt biscuits{3}
+- @sourdough bread{}
+
+== Batch Prep ==
+
+- @./Freezable/Kotletter{}
+
+== Baby ==
+- @cotton pads{2}

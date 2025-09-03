@@ -1,19 +1,7 @@
 supervalu:
-  opt_2:
-    name: SuperValu Loose Rooster Potatoes
-    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-loose-rooster-potatoes-1-kg-id-1036675000
-    price: €2.89/kg
-    price_per_unit: €2.89/kg
-    quantity: 1 kg
-  opt_3:
+  opt_1:
     name: Keogh's Fresh Potatoes
     url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/keoghs-fresh-potatoes-2-kg-id-1389480000
     price: €3.49
     price_per_unit: €1.75/kg
     quantity: 2 kg
-  opt_1:
-    name: You Say Potato Fresh Peeled Potatoes
-    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/you-say-potato-fresh-peeled-potatoes-450-g-id-1467675000
-    price: €2.00
-    price_per_unit: €4.44/kg
-    quantity: 450 g

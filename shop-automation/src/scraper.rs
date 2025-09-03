@@ -8,7 +8,7 @@ use crate::models::{ProductOption, ShoppingData};
 const SUPERVALU_BASE_URL: &str = "https://shop.supervalu.ie";
 
 pub async fn scrape_product(product_name: &str, db_path: &str, visible: bool) -> Result<()> {
-    // Check if shopping.yml already exists for this product
+    // Check if shopping.yml already exists and has data for this product
     let clean_name = product_name
         .to_lowercase()
         .replace(" ", "_")
@@ -18,8 +18,20 @@ pub async fn scrape_product(product_name: &str, db_path: &str, visible: bool) ->
     let yaml_path = Path::new(db_path).join(&clean_name).join("shopping.yml");
     
     if yaml_path.exists() {
-        println!("⏭ Skipping {} - shopping.yml already exists", product_name);
-        return Ok(());
+        // Check if the file has actual product data
+        if let Ok(content) = fs::read_to_string(&yaml_path) {
+            if let Ok(data) = serde_yaml::from_str::<ShoppingData>(&content) {
+                // Check if it has real data (any URL populated means it's ready)
+                let has_real_data = data.supervalu.values().any(|opt| !opt.url.is_empty());
+                
+                if has_real_data {
+                    println!("⏭ Skipping {} - shopping.yml has URL data (manually added or scraped)", product_name);
+                    return Ok(());
+                } else {
+                    println!("🔄 Re-scraping {} - shopping.yml exists but URLs are empty", product_name);
+                }
+            }
+        }
     }
     
     // Launch browser with appropriate options
@@ -114,13 +126,8 @@ pub async fn scrape_product(product_name: &str, db_path: &str, visible: bool) ->
         std::thread::sleep(Duration::from_secs(15));
     }
     
-    // Save to YAML file
-    if !products.is_empty() {
-        save_to_yaml(product_name, products, db_path)?;
-    } else {
-        // Print in red using ANSI escape codes
-        println!("\x1b[31m⚠ No products found for: {}\x1b[0m", product_name);
-    }
+    // Save to YAML file (even if empty)
+    save_to_yaml(product_name, products, db_path)?;
     
     Ok(())
 }
@@ -257,8 +264,22 @@ fn save_to_yaml(product_name: &str, products: Vec<ProductOption>, db_path: &str)
     
     // Create shopping data
     let mut shopping_data = ShoppingData::new();
-    for (i, product) in products.into_iter().enumerate() {
-        shopping_data.add_option(i + 1, product);
+    let is_empty = products.is_empty();
+    
+    if is_empty {
+        // Create empty template with placeholder structure
+        let empty_product = ProductOption {
+            name: String::new(),
+            url: String::new(),
+            price: String::new(),
+            price_per_unit: String::new(),
+            quantity: None,
+        };
+        shopping_data.add_option(1, empty_product);
+    } else {
+        for (i, product) in products.into_iter().enumerate() {
+            shopping_data.add_option(i + 1, product);
+        }
     }
     
     // Write YAML file
@@ -269,7 +290,12 @@ fn save_to_yaml(product_name: &str, products: Vec<ProductOption>, db_path: &str)
     fs::write(&yaml_path, yaml_content)
         .context(format!("Failed to write file: {:?}", yaml_path))?;
     
-    println!("✓ Saved shopping data to: {:?}", yaml_path);
+    if is_empty {
+        // Print in red using ANSI escape codes
+        println!("\x1b[31m⚠ No products found for: {} - created empty shopping.yml template for manual editing\x1b[0m", product_name);
+    } else {
+        println!("✓ Saved {} products to: {:?}", shopping_data.supervalu.len(), yaml_path);
+    }
     
     Ok(())
 }

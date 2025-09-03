@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Heinz Baked Beans
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/heinz-baked-beans-415-g-id-1011892000
+    price: €1.50
+    price_per_unit: €3.61/kg
+    quantity: 415 g
+  opt_3:
+    name: SuperValu Baked Beans
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-baked-beans-420-g-id-1008169000
+    price: €0.48
+    price_per_unit: €1.14/kg
+    quantity: 420 g
+  opt_1:
+    name: Batchelors Baked Beans
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/batchelors-baked-beans-225-g-id-1025306000
+    price: €1.30
+    price_per_unit: €5.78/kg
+    quantity: 225 g

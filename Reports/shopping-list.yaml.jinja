@@ -1,5 +1,5 @@
 items:
-{% for ingredient in get_ingredient_list(ingredients) %}
+{% for ingredient in excluding_pantry(get_ingredient_list(ingredients)) %}
     - name: {{ingredient.name}}
       amount: {{ingredient.quantities}}
       link: {{ db(underscore(ingredient.name) ~ ".shopping.supervalu.opt_1.url") }}

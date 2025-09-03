@@ -1,5 +1,5 @@
 supervalu:
-  opt_2:
+  opt_1:
     name: SuperValu Beef Tomatoes
     url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-beef-tomatoes-2-piece-id-1600884000
     price: €2.35
@@ -11,7 +11,7 @@ supervalu:
     price: €1.09
     price_per_unit: €4.36/kg
     quantity: 250 g
-  opt_1:
+  opt_2:
     name: SuperValu Tomatoes
     url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-tomatoes-6-piece-id-1016514000
     price: €1.29

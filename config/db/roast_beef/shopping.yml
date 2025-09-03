@@ -1,0 +1,13 @@
+supervalu:
+  opt_1:
+    name: SuperValu Fresh Irish Beef HouseKeepers Cut
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fresh-irish-beef-housekeepers-cut-1-kg-id-1019176000
+    price: €15.99/kg
+    price_per_unit: €15.99/kg
+    quantity: 1 kg
+  opt_2:
+    name: SuperValu Fresh Irish Boneless Beef Rib Roast
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fresh-irish-boneless-beef-rib-roast-1-kg-id-1019170001
+    price: €21.99/kg
+    price_per_unit: €21.99/kg
+    quantity: 1 kg

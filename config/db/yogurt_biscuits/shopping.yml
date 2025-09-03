@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: Bunalun Organic Rice Cakes Yoghurt
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/bunalun-organic-rice-cakes-yoghurt-100-g-id-1019219001
+    price: €3.00 was €3.99
+    price_per_unit: €30.00/kg
+    quantity: 100 g
+  opt_3:
+    name: SuperValu Mixed Berry Yogurt Rice Cakes
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-mixed-berry-yogurt-rice-cakes-96-g-id-1799671000
+    price: €1.25
+    price_per_unit: €13.02/kg
+    quantity: 96 g
+  opt_2:
+    name: SuperValu Yogurt Rice Cakes
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-yogurt-rice-cakes-100-g-id-1798305001
+    price: €1.25
+    price_per_unit: €12.50/kg
+    quantity: 100 g

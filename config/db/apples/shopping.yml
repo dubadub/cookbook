@@ -1,5 +1,11 @@
 supervalu:
   opt_3:
+    name: SuperValu Loose Cooking Apples
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-loose-cooking-apples-1-kg-id-1036677000
+    price: €2.45/kg
+    price_per_unit: €2.45/kg
+    quantity: 1 kg
+  opt_2:
     name: SuperValu Loose Pink Lady Apples
     url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-loose-pink-lady-apples-1-piece-id-1179723000
     price: €0.55
@@ -11,9 +17,3 @@ supervalu:
     price: €1.49
     price_per_unit: €0.19 each
     quantity: 8 Piece
-  opt_2:
-    name: SuperValu Loose Cooking Apples
-    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-loose-cooking-apples-1-kg-id-1036677000
-    price: €2.45/kg
-    price_per_unit: €2.45/kg
-    quantity: 1 kg

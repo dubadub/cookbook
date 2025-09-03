@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Celery
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-celery-1-piece-id-1023533000
+    price: €0.99
+    price_per_unit: €0.99
+    quantity: 1 Piece
+  opt_3:
+    name: SuperValu Loose Leeks
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-loose-leeks-1-kg-id-1036694000
+    price: €4.65/kg
+    price_per_unit: €4.65/kg
+    quantity: 1 kg
+  opt_2:
+    name: SuperValu Organic Celery
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-celery-1-piece-id-1015370000
+    price: €1.99
+    price_per_unit: €1.99
+    quantity: 1 Piece

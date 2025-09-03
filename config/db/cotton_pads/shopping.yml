@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Giant Cotton Pads
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-giant-cotton-pads-40-piece-id-1308250000
+    price: €1.20
+    price_per_unit: €0.03 each
+    quantity: 40 Piece
+  opt_3:
+    name: Johnson's Baby 50 Cotton Pads
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/johnsons-baby-50-cotton-pads-50-piece-id-1119171001
+    price: €1.00
+    price_per_unit: €0.02 each
+    quantity: 50 Piece
+  opt_2:
+    name: Irish Breeze Oval Cotton Pads
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/irish-breeze-oval-cotton-pads-40-piece-id-1026921000
+    price: €2.35
+    price_per_unit: €0.06 each
+    quantity: 40 Piece

@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: Hand Crafted White Sourdough Boule
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/hand-crafted-white-sourdough-boule-630-g-id-1768785001
+    price: €3.50
+    price_per_unit: €5.56/kg
+    quantity: 630 g
+  opt_2:
+    name: Sourdough Brown Pave
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/sourdough-brown-pave-400-g-id-1956759000
+    price: €2.85
+    price_per_unit: €7.13/kg
+    quantity: 400 g
+  opt_3:
+    name: Kelkin Gluten Free Sourdough Bread
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/kelkin-gluten-free-sourdough-bread-200-g-id-1406094000
+    price: €2.60 was €3.49
+    price_per_unit: €13.00/kg
+    quantity: 200 g

@@ -1,0 +1,218 @@
+building menus
+
+- search top-rated ... recipe
+- remember previous days back, record it as a plan
+
+```
+cook  shopping-list --base-path /Users/alexeydubovskoy/recipes  --ingredients-only "Plans/3 Day Plan I.menu" | cargo run -- scrape
+```
+Starting to scrape 35 products from SuperValu...
+Scraping: Bolognese Pasta Sauce
+🔗 Navigating to: https://shop.supervalu.ie/sm/delivery/rsid/404/results?q=Bolognese%20Pasta%20Sauce
+⏳ Waiting for page to load...
+🍪 Handling cookie consent...
+🔍 Waiting for products to load...
+📦 Found 3 products
+✓ Saved shopping data to: "../config/db/bolognese_pasta_sauce/shopping.yml"
+✓ Successfully scraped Bolognese Pasta Sauce
+
+
+cargo run login
+🔐 Logging in to SuperValu...
+🍪 Handling cookie consent...
+🔐 Logging in to SuperValu...
+✅ Successfully logged in
+✅ Login successful! Cookies saved to: "/Users/alexeydubovskoy/Library/Application Support/shop-automation/supervalu_cookies.json"
+   You can now use the 'shop' command without logging in each time.
+
+
+
+ recipes git:(main) ✗ /Users/alexeydubovskoy/cooklang/CookCLI/target/debug/cook -vvv report  -t Reports/shopping-list.yaml.jinja -d config/db -p config/pantry.conf "Plans/3 Day Plan I.menu" | shop-automation/target/debug/shop-automation shop - --visible
+ WARN ⚠️  The report command is a prototype feature and will change in future versions.
+TRACE checking auto aisle file: /Users/alexeydubovskoy/recipes/config/aisle.conf
+Warning in aisle file: Duplicate ingredient: 'carrots'
+Warning in 'Salads/Prawn Evening Salad': Invalid timer quantity: missing unit
+Warning: key 'english_cucumber.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'parma_ham.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'bay_leaves.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'beef_mince_5%.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'cheddar_cheese.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'coriander.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'coriander_leaves.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'eggs.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'hake_fillet.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'kefir.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'kiwi.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'lime.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'milk.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'minced_beef.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'pork_mince_10%.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'potatoes.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'radish.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'salad_leaves.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'tomato_purée.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+Warning: key 'tortillas.shopping.supervalu.opt_2.url' not found in datastore, using empty value
+🛒 Starting shopping automation with 35 items
+🌐 Navigating to SuperValu...
+🍪 Handling cookie consent...
+🍪 Using saved cookies...
+✅ Successfully restored session
+
+📅 Please select your delivery slot in the browser.
+   Once you've selected a delivery slot, press Enter here to continue...
+
+✅ Starting to add items to cart...
+
+
+📦 [1/35] Processing: English cucumber
+   Amount needed: 0.5
+   ✅ Added to cart
+
+📦 [2/35] Processing: Parma ham
+   Amount needed: 2
+   ✅ Added to cart
+
+📦 [3/35] Processing: apples
+   ✅ Added to cart
+
+📦 [4/35] Processing: avocados
+   Amount needed: 2
+   ✅ Added to cart
+
+📦 [5/35] Processing: bay leaves
+   Amount needed: 2
+   ✅ Added to cart
+
+📦 [6/35] Processing: beef mince 5%
+   Amount needed: 400 g
+   ✅ Added to cart
+
+📦 [7/35] Processing: bolognese pasta sauce
+   Amount needed: 1/2 jar
+   ✅ Added to cart
+
+📦 [8/35] Processing: buffalo mozzarella
+   Amount needed: 4 balls
+   ✅ Added to cart
+
+📦 [9/35] Processing: carrots
+   Amount needed: 3
+   ✅ Added to cart
+
+📦 [10/35] Processing: celery
+   Amount needed: 2 sticks
+   ✅ Added to cart
+
+📦 [11/35] Processing: cheddar cheese
+   Amount needed: 75 g
+   ✅ Added to cart
+
+📦 [12/35] Processing: cherry tomatoes
+   Amount needed: 26
+   ✅ Added to cart
+
+📦 [13/35] Processing: coriander
+   Amount needed: 1 bunch
+   ✅ Added to cart
+
+📦 [14/35] Processing: coriander leaves
+   ⚠️  Item might be out of stock
+
+📦 [15/35] Processing: cotton pads
+   Amount needed: 2
+   ✅ Added to cart
+
+📦 [16/35] Processing: dates
+   ✅ Added to cart
+
+📦 [17/35] Processing: eggs
+   Amount needed: 9 large
+   ✅ Added to cart
+
+📦 [18/35] Processing: hake fillet
+   Amount needed: 2
+   ✅ Added to cart
+
+📦 [19/35] Processing: kefir
+   Amount needed: 2
+   ✅ Added to cart
+
+📦 [20/35] Processing: kiwi
+   ✅ Added to cart
+
+📦 [21/35] Processing: lime
+   ✅ Added to cart
+
+📦 [22/35] Processing: milk
+   Amount needed: 0.4 cup
+   ✅ Added to cart
+
+📦 [23/35] Processing: minced beef
+   Amount needed: 200 g
+   ⚠️  Item might be out of stock
+
+📦 [24/35] Processing: pork mince 10%
+   Amount needed: 400 g
+   ✅ Added to cart
+
+📦 [25/35] Processing: potatoes
+   Amount needed: 0.8 kg
+   ✅ Added to cart
+
+📦 [26/35] Processing: radish
+   Amount needed: 12
+   ✅ Added to cart
+
+📦 [27/35] Processing: roast beef
+   Amount needed: 900 g
+   ✅ Added to cart
+
+📦 [28/35] Processing: salad leaves
+   Amount needed: 160 g
+   ✅ Added to cart
+
+📦 [29/35] Processing: smoked salmon
+   Amount needed: 2
+   ✅ Added to cart
+
+📦 [30/35] Processing: sour cream
+   Amount needed: 12 tbsp
+   ✅ Added to cart
+
+📦 [31/35] Processing: sourdough bread
+   Amount needed: 2 slice
+   ✅ Added to cart
+
+📦 [32/35] Processing: tomato purée
+   Amount needed: 2 tbsp
+   ✅ Added to cart
+
+📦 [33/35] Processing: tomatoes
+   Amount needed: 2 large
+   ✅ Added to cart
+
+📦 [34/35] Processing: tortillas
+   Amount needed: 6 large
+   ✅ Added to cart
+
+📦 [35/35] Processing: yogurt biscuits
+   Amount needed: 3
+   ✅ Added to cart
+
+============================================================
+📊 SHOPPING SUMMARY
+============================================================
+
+✅ Successfully added: 33 items
+
+❌ Failed to add 2 items:
+   - coriander leaves
+   - minced beef
+
+============================================================
+
+🛒 Browser is ready for checkout.
+   Review your cart and complete your purchase.
+   Press Enter here when you're done to close the browser...
+
+✅ Shopping session complete!
