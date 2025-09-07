@@ -6,6 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a recipe collection and meal planning system using the CookLang format, designed to work with the CookCLI tool. The repository contains structured recipes in `.cook` files organized by category, along with configuration for shopping lists, ingredient metadata, and meal planning.
 
+## Menu preferences
+
+For evenings should be something light like @./Prawn Evening Salad{} or @./Caprese{}, low carbs.
+
 ## Essential Commands
 
 ### Read a recipe
