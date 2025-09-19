@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Dove Beauty Cream Soap Bar 4 Pack
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/dove-beauty-cream-soap-bar-4-pack-90-g-id-1818787000
+    price: €4.65
+    price_per_unit: €12.92/kg
+    quantity: 90 g
+  opt_3:
+    name: Palmolive Moisture Care Bar Soap 4 Pack
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/palmolive-moisture-care-bar-soap-4-pack-90-g-id-1006161000
+    price: €2.75
+    price_per_unit: €0.76/kg
+    quantity: 90 g
+  opt_1:
+    name: Dove Beauty Cream Soap Bar 2 Pack
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/dove-beauty-cream-soap-bar-2-pack-90-g-id-1818778000
+    price: €3.29
+    price_per_unit: €18.28/kg
+    quantity: 90 g

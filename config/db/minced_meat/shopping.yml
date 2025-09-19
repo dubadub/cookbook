@@ -1,0 +1,13 @@
+supervalu:
+  opt_1:
+    name: SuperValu Fresh Irish Beef Round Steak Mince
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fresh-irish-beef-round-steak-mince-1-kg-id-1026195000
+    price: €15.49/kg
+    price_per_unit: €15.49/kg
+    quantity: 1 kg
+  opt_2:
+    name: SuperValu Fresh Irish Beef Round Steak Mince
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fresh-irish-beef-round-steak-mince-454-g-id-1390464002
+    price: €4.99
+    price_per_unit: €10.99/kg
+    quantity: 454 g

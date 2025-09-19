@@ -1,0 +1,13 @@
+supervalu:
+  opt_1:
+    name: SuperValu Fresh Irish Chicken Thigh Fillets
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fresh-irish-chicken-thigh-fillets-400-g-id-1496351000
+    price: €3.99
+    price_per_unit: €9.98/kg
+    quantity: 400 g
+  opt_2:
+    name: SuperValu Fresh Irish Boneless Chicken Thigh Fillets
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-fresh-irish-boneless-chicken-thigh-fillets-600-g-id-1909325000
+    price: €5.00
+    price_per_unit: €8.33/kg
+    quantity: 600 g
