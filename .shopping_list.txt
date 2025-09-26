@@ -1,4 +1,0 @@
-# Shopping List
-# Format: path<TAB>name<TAB>scale
-
-Breakfast/Mexican Style Burrito	Mexican Style Burrito	3
