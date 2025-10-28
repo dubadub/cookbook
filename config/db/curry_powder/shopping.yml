@@ -1,0 +1,19 @@
+supervalu:
+  opt_2:
+    name: Schwartz Mild Curry Powder
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/schwartz-mild-curry-powder-85-g-id-1036273000
+    price: €2.60
+    price_per_unit: €30.59/kg
+    quantity: 85 g
+  opt_3:
+    name: Schwartz Hot Curry Powder
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/schwartz-hot-curry-powder-85-g-id-1036274000
+    price: €2.90
+    price_per_unit: €34.12/kg
+    quantity: 85 g
+  opt_1:
+    name: Schwartz Medium Curry Powder
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/schwartz-medium-curry-powder-90-g-id-1020922000
+    price: €3.25
+    price_per_unit: €36.11/kg
+    quantity: 90 g

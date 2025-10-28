@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Basmati Rice
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-basmati-rice-1-kg-id-1009602000
+    price: €1.75
+    price_per_unit: €1.75/kg
+    quantity: 1 kg
+  opt_2:
+    name: SuperValu Express Basmati Rice
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-express-basmati-rice-250-g-id-1028082001
+    price: €0.65
+    price_per_unit: €2.60/kg
+    quantity: 250 g
+  opt_3:
+    name: Roma Risotto Rice
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/roma-risotto-rice-500-g-id-1037497000
+    price: €3.79
+    price_per_unit: €7.58/kg
+    quantity: 500 g

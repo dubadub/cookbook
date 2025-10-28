@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Sesame Seeds
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-sesame-seeds-200-g-id-1806994001
+    price: €1.35
+    price_per_unit: €6.75/kg
+    quantity: 200 g
+  opt_2:
+    name: Frontier Foods Tahini Sesame Seed Purée
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/frontier-foods-tahini-sesame-seed-pure-270-g-id-1612326000
+    price: €3.49
+    price_per_unit: €12.93/kg
+    quantity: 270 g
+  opt_3:
+    name: Sunita Light Tahini Sesame Seed Spread
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/sunita-light-tahini-sesame-seed-spread-280-g-id-1060906000
+    price: €3.99
+    price_per_unit: €14.25/kg
+    quantity: 280 g

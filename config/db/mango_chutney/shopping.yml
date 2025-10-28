@@ -1,0 +1,13 @@
+supervalu:
+  opt_1:
+    name: Sharwood's Mango Chutney
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/sharwoods-mango-chutney-360-g-id-1015281000
+    price: €4.09
+    price_per_unit: €11.36/kg
+    quantity: 360 g
+  opt_2:
+    name: SuperValu Signature Tastes Spiced Mango Chutney
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-signature-tastes-spiced-mango-chutney-300-g-id-1008856002
+    price: €1.99
+    price_per_unit: €6.63/kg
+    quantity: 300 g

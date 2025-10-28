@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: Barry''s Tea Gold Blend 160 Bags
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/barrys-tea-gold-blend-160-bags-500-g-id-1008460002
+    price: €7.79
+    price_per_unit: €15.58/kg
+    quantity: 500 g
+  opt_2:
+    name: Barry''s Tea Organic Green Tea  20 Bags
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/barrys-tea-organic-green-tea-20-bags-40-g-id-1020624002
+    price: €2.50
+    price_per_unit: €62.50/kg
+    quantity: 40 g
+  opt_3:
+    name: Barry''s Gold Blend Tea 80 Bags
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/barrys-gold-blend-tea-80-bags-250-g-id-1023887001
+    price: €4.09
+    price_per_unit: €16.36/kg
+    quantity: 250 g

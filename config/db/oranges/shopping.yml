@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Large Loose Oranges
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-large-loose-oranges-1-piece-id-1018820000
+    price: €0.55
+    price_per_unit: €0.55
+    quantity: 1 Piece
+  opt_2:
+    name: SuperValu Net Oranges
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-net-oranges-15-kg-id-1889737000
+    price: €1.99
+    price_per_unit: €1.33/kg
+    quantity: 1.5 kg
+  opt_3:
+    name: SuperValu Organic Oranges 4 Pce
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-oranges-4-pce-4-piece-id-1015330000
+    price: €3.19
+    price_per_unit: €0.80 each
+    quantity: 4 Piece

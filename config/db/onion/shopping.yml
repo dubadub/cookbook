@@ -1,16 +1,19 @@
 supervalu:
-  opt_1:
-    name: SuperValu Mild Onions (3 Piece)
-    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-mild-onions-3-piece-id-1068150000
-    price: €1.49
-    price_per_unit: €0.50 each
-  opt_2:
-    name: Supervalu Onions Net (750 g)
-    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-onions-net-750-g-id-1258724000
-    price: €0.99
-    price_per_unit: €1.32/kg
   opt_3:
-    name:SuperValu Red Onions (750 g)
-    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-red-onions-750-g-id-1258724002
-    price: €0.99
-    price_per_unit: €1.32/kg
+    name: SuperValu Red Onion
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-red-onion-1-kg-id-1036692000
+    price: €2.19/kg
+    price_per_unit: €2.19/kg
+    quantity: 1 kg
+  opt_2:
+    name: SuperValu Mild Onions
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-mild-onions-3-piece-id-1068150000
+    price: €0.75
+    price_per_unit: €0.25 each
+    quantity: 3 Piece
+  opt_1:
+    name: SuperValu Brown Onions
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-brown-onions-750-g-id-1017016001
+    price: €1.05
+    price_per_unit: €1.40/kg
+    quantity: 750 g

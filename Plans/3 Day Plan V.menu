@@ -1,0 +1,77 @@
+---
+servings: 2
+---
+
+==Day 0==
+
+-- delivery around 4pm
+
+Dinner:
+- @./Salads/Chicken Evening Salad{}
+
+-- do prep for burrito
+
+==Day 1==
+
+Breakfast:
+- @eggs{4}(scrambled) with @toast{2%slices} and @butter{1%tbsp} and @smoked salmon{1%pack} and @salad leaves{}
+- @filter coffee{1%cup} and @tea{1%cup}
+
+Lunch:
+- @./Slowcooker/Slow Cooker Chicken Curry{2%servings} with @rice{1%cup}(boiled)
+- @./Salads/Boring{2%servings}
+
+Dinner:
+- @./Salads/Chicken Evening Salad{}
+
+==Day 2==
+
+Breakfast:
+- @eggs{4}(scrambled) with @spinach and @panchetta and @toast{2%slices} and @butter{1%tbsp} and @salad leaves{}
+- @filter coffee{1%cup} and @tea{1%cup}
+
+Lunch:
+- @./Slowcooker/Slow Cooker Chicken Curry{2%servings} with @rice{1%cup}(boiled)
+- @tea{2%cup}
+
+Dinner:
+- @./Salads/Chicken Evening Salad{}
+
+==Day 3==
+
+Breakfast:
+- @oats with @milk and @blueberries and @butter{1%tbsp} and @smoked salmon{1%pack} and @salad leaves{}
+- @filter coffee{1%cup} and @tea{1%cup}
+
+Lunch:
+- @./Lunches/Navy pasta{}
+- @./Salads/Boring{}
+- @tea{2%cup}
+
+Dinner:
+- @./Salads/Caprese{2%servings}
+
+-- dinner from a new order
+
+== Snacks ==
+
+- @kefir{2}
+- @dates
+- @apples
+- @oranges
+- @kiwi
+- @Parma ham{2}
+- @smoked salmon{2}
+
+
+== Batch Prep ==
+
+-- nothing
+
+== Houshold ==
+
+--
+
+
+== Baby ==
+--

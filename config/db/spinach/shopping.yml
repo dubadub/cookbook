@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Baby Spinach
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-baby-spinach-200-g-id-1030330000
+    price: €1.39
+    price_per_unit: €6.95/kg
+    quantity: 200 g
+  opt_3:
+    name: SuperValu Spinach
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-spinach-600-g-id-1692908000
+    price: €0.95
+    price_per_unit: €1.58/kg
+    quantity: 600 g
+  opt_2:
+    name: SuperValu Organic Spinach
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-spinach-200-g-id-1033061000
+    price: €2.89
+    price_per_unit: €14.45/kg
+    quantity: 200 g

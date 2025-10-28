@@ -1,0 +1,19 @@
+supervalu:
+  opt_3:
+    name: SuperValu Extra Virgin Olive Oil
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-extra-virgin-olive-oil-250-ml-id-1511055000
+    price: €3.25
+    price_per_unit: €13.00/l
+    quantity: 250 ml
+  opt_1:
+    name: SuperValu Extra Virgin Olive Oil
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-extra-virgin-olive-oil-500-ml-id-1511156000
+    price: €4.29
+    price_per_unit: €8.58/l
+    quantity: 500 ml
+  opt_2:
+    name: SuperValu Extra Virgin Olive Oil
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-extra-virgin-olive-oil-1-l-id-1045535000
+    price: €5.89
+    price_per_unit: €5.89/l
+    quantity: 1 L

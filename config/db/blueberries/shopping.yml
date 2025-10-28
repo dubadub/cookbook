@@ -1,0 +1,19 @@
+supervalu:
+  opt_1:
+    name: SuperValu Signature Tastes Blueberries
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-signature-tastes-blueberries-225-g-id-1683185003
+    price: €5.00
+    price_per_unit: €20.00/kg
+    quantity: 225 g
+  opt_2:
+    name: SuperValu Signature Tastes Blueberries
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-signature-tastes-blueberries-125-g-id-1683185000
+    price: €2.99
+    price_per_unit: €23.92/kg
+    quantity: 125 g
+  opt_3:
+    name: SuperValu Organic Blueberries
+    url: https://shop.supervalu.ie/sm/delivery/rsid/404/product/supervalu-organic-blueberries-125-g-id-1032407000
+    price: €3.09
+    price_per_unit: €24.72/kg
+    quantity: 125 g
