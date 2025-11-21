@@ -11,10 +11,14 @@
             "id": "5d45d8b2544229d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-11-08.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-11-08"
             }
           }
         ]
@@ -164,6 +168,8 @@
   },
   "active": "5d45d8b2544229d8",
   "lastOpenFiles": [
+    "Untitled.base",
+    "2025-11-08.md",
     "config/db/red_onion/shopping.yml",
     "config/db/red_onion",
     "config/db/toothpaste/shopping.yml",
@@ -172,8 +178,6 @@
     "config/db/soap_bars",
     "config/db/minced_meat/shopping.yml",
     "config/db/minced_meat",
-    "config/db/coconut_milk/shopping.yml",
-    "config/db/coconut_milk",
-    "config/db/chicken_thighs/shopping.yml"
+    "config/db/coconut_milk/shopping.yml"
   ]
 }

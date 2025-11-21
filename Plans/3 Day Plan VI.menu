@@ -4,77 +4,70 @@ servings: 2
 
 ==Day 1==
 
+Breakfast:
+- @./Breakfast/Shakshuka.cook{2}
+- @sourdough bread{2%slices}(toasted)
+- @filter coffee{1%cup} and @tea{1%cup}
+
 Lunch:
-- @./Lunches/Quick Chicken Casserole{2%servings}
-- @tea{2%cup}
+- @./Traybake/Mediterranean Chicken Traybake.cook{2}
+- @./Salads/Beetroot Salad.cook{2}
 
 Dinner:
-- @./Dinners/Greek Chicken Souvlaki Bowl{2%servings}
-- @tea{1%cup}
-
--- prep slowcooker for tomorrow
+- @./Dinners/Carbonara.cook{2}
+- @green salad{} with @olive oil{1%tbsp} and @lemon juice{1%tsp}
 
 ==Day 2==
 
 Breakfast:
-- @eggs{4}(scrambled) with @bread{2%slices}(toasted) and @butter{1%tbsp} and @avocado{1}
+- @./Breakfast/American Pancakes.cook{2}
+- @maple syrup{2%tbsp}
+- @berries{100%g}
 - @filter coffee{1%cup} and @tea{1%cup}
 
 Lunch:
-- @./Slowcooker/Slow Cooker Chilli Con Carne{2%servings}
+- @./Traybake/Honey Garlic Salmon Traybake.cook{2}
 - @tea{2%cup}
 
 Dinner:
-- @./Salads/Chicken Evening Salad{2%servings}
+- @./Soups/Borsch.cook{2}
+- @sour cream{2%tbsp}
+- @sourdough bread{2%slices}
 
 ==Day 3==
 
 Breakfast:
-- @oats{100%g} with @milk{200%ml} and @banana{1} and @honey{1%tbsp}
+- @./Breakfast/Smoothie bowl.cook{2}
+- @granola{4%tbsp}
 - @filter coffee{1%cup} and @tea{1%cup}
 
 Lunch:
-- @./Slowcooker/Slow Cooker Chilli Con Carne{2%servings}
+- @./Lunches/Spaghetti Bolognese.cook{2}
+- @parmesan cheese{30%g}(grated)
 - @tea{2%cup}
 
 Dinner:
-- @./Salads/Beetroot Salad{2%servings}
-- @grilled chicken breast{200%g} with @lemon juice{} and @olive oil{}
-
--- dinner from new order
+- @./Traybake/Roast chicken traybake.cook{2}
+- @./Salads/Vinegrette.cook{2}
 
 == Snacks ==
 
-- @kefir{2%bottle}
-- @apples{5}
-- @oranges{4}
-- @hummus{1%tub} with @carrots{} and @cucumber{}
-- @Greek yogurt{2}
+- @kefir{2}
+- @apples{6}
+- @bananas{4}
+- @mixed nuts{200%g}
+- @Parma ham{1%pack}
+- @hummus{1%tub}
+- @carrot sticks{}
 
 == Batch Prep ==
 
--- Day 1 evening: Start slow cooker with chilli con carne
--- Day 2 morning: Chilli con carne should be ready
+- @./Freezable/Meatballs.cook{}
 
 == Household ==
 
-- @tea filters{}
+--
 
+== Baby ==
 
-== Baby (6 months) ==
-
--- Current foods: sweet potato, broccoli, carrots, apple, chicken, beef, yogurt
--- New food cycle (introduce every 3 days): Starting pear puree
--- Second meals: Rotate through previously approved foods
-
-Day 1:
-- Meal 1: @pear{1}(steamed and pureed) - NEW FOOD
-- Meal 2: @sweet potato{50%g}(steamed and mashed)
-
-Day 2:
-- Meal 1: @pear{1}(steamed and pureed) - Day 2 of new food
-- Meal 2: @broccoli{50%g}(steamed and pureed)
-
-Day 3:
-- Meal 1: @pear{1}(steamed and pureed) - Day 3 of new food
-- Meal 2: @carrot{50%g}(steamed and pureed)
+--
